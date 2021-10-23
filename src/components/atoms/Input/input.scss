@@ -1,0 +1,20 @@
+.form-group{
+    position: relative;
+    width: 100%;
+
+    .form-label{
+        display: block;
+        font-size: 16px;
+        color: #2d2d2d;
+        margin-bottom: 6px;
+    }
+
+    .form-input{
+        border: 1px solid #808080;
+        padding: 12px;
+        border-radius: 8px;
+        outline: none;
+        width: 100%;
+        box-sizing: border-box;
+    }
+}
